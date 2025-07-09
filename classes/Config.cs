@@ -19,6 +19,8 @@ namespace FreeNet.classes
         {
             // old -p -m -a -f 2 -k 2 -e 1 --max-payload 2500 --min-ttl 128 --auto-ttl 1-4-128 --reverse-frag --native-frag
             // old 2 -p -e 1 --reverse-frag
+
+            //TODO: DoH FIX (ISSUE #4)
             
             string json = """
                 {
