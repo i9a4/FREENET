@@ -225,7 +225,7 @@
                         <Button Tag="restart" x:Name="btn_dpi_Restart" Style="{DynamicResource Button}" Grid.Column="2" Content="Перезапустить" HorizontalAlignment="Center" VerticalAlignment="Center" Height="30" Click="btn_dpi_Restart_Click" />
 
                     </Grid>
-                    <Button Style="{DynamicResource Button}" Content="Настройка" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" Click="Button_Click_2"/>
+                    <Button Style="{DynamicResource Button}" Content="Настройки" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" Click="Button_Click_2"/>
                     <CheckBox Content="Автоперезапуск" x:Name="chkb_restart_dpi" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" IsChecked="True"/>
                 </Grid>
                 <Grid Grid.Row="1">
@@ -246,7 +246,7 @@
                             <Button Tag="restart" x:Name="btn_doh_Restart" Style="{DynamicResource Button}" Grid.Column="2" Content="Перезапустить" HorizontalAlignment="Center" VerticalAlignment="Center" Height="30" Click="btn_doh_Restart_Click" />
 
                         </Grid>
-                        <Button Style="{DynamicResource Button}" Content="Настройка" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Click="Button_Click_3"/>
+                        <Button Style="{DynamicResource Button}" Content="Настройки" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Click="Button_Click_3"/>
                         <CheckBox Content="Автоперезапуск" x:Name="chkb_restart_doh" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" IsChecked="True"/>
                     </Grid>
                 </Grid>
@@ -268,7 +268,7 @@
                             <Button Tag="restart" x:Name="btn_proxy_Restart" Style="{DynamicResource Button}" Grid.Column="2" Content="Перезапустить" HorizontalAlignment="Center" VerticalAlignment="Center" Height="30" Click="btn_proxy_Restart_Click" />
 
                         </Grid>
-                        <Button Style="{DynamicResource Button}" Content="Настройка" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Click="Button_Click_4"/>
+                        <Button Style="{DynamicResource Button}" Content="Настройки" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Click="Button_Click_4"/>
                         <CheckBox Content="Автоперезапуск" x:Name="chkb_restart_proxy" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" IsChecked="True"/>
                     </Grid>
                 </Grid>
