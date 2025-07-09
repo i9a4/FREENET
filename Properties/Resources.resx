@@ -379,7 +379,7 @@
 </value>
   </data>
   <data name="version" xml:space="preserve">
-    <value>1.2</value>
+    <value>1.2</value> 
   </data>
   <data name="APP_name" xml:space="preserve">
     <value>FREENET</value>
