@@ -36,7 +36,7 @@
                 <RowDefinition/>
             </Grid.RowDefinitions>
             <Label Content="%pwd% - путь до текущей директории" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,0,0,0"/>
-            <Label Content="%pwd_no_disk% - путь до текущей директории без указания диска" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,0,0,0"/>
+            <Label Content="%pwd_no_disk% - путь до текущей директории без указания диска" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,0,0,0"/> // TODO: Need to fix
         </Grid>
 
     </Grid>
